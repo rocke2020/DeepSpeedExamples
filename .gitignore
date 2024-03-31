@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+training/cifar/data
 # C extensions
 *.so
 
